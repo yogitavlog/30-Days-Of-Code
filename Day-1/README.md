@@ -3,14 +3,14 @@
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
 
 ### Task
-Complete the code in the editor below. The variables _i_, _d_, and _s_ are already declared and initialized for you. You must:
+Complete the code in the editor below. The variables **_i_**, **_d_**, and **_s_** are already declared and initialized for you. You must:
 
-1. Declare _3_ variables: one of type int, one of type double, and one of type String.
-2. Read _3_ lines of input from stdin (according to the sequence given in the Input Format section below) and initialize your variables.
-3. Use the _3_ operator to perform the following operations:
-1. Print the sum of _i_ plus your int variable on a new line.
-2. Print the sum of _d_ plus your double variable to a scale of one decimal place on a new line.
-3. Concatenate _s_ with the string you read as input and print the result on a new line.
+1. Declare **_3_** variables: one of type int, one of type double, and one of type String.
+2. Read **_3_** lines of input from stdin (according to the sequence given in the Input Format section below) and initialize your variables.
+3. Use the **_3_** operator to perform the following operations:
+    1. Print the sum of **_i_** plus your int variable on a new line.
+    2. Print the sum of **_d_** plus your double variable to a scale of one decimal place on a new line.
+    3. Concatenate **_s_** with the string you read as input and print the result on a new line.
 
 **Note:** If you are using a language that doesn't support using + for string concatenation (e.g.: C), you can just print one variable immediately following the other on the same line. The string provided in your editor must be printed first, immediately followed by the string you read as input.
 
@@ -24,14 +24,14 @@ Print the sum of both integers on the first line, the sum of both doubles (scale
 
 **Sample Input**
 
-12
-4.0 
-is the best place to learn and practice coding! 
+    12
+    4.0 
+    is the best place to learn and practice coding! 
 **Sample Output**
 
-16 
-8.0
-HackerRank is the best place to learn and practice coding!  
+    16 
+    8.0
+    HackerRank is the best place to learn and practice coding!  
 **Explanation**
 
 When we sum the integers **4** and **12**, we get the integer 16.
