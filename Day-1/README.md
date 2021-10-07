@@ -15,11 +15,13 @@ Complete the code in the editor below. The variables **_i_**, **_d_**, and **_s_
 **Note:** If you are using a language that doesn't support using + for string concatenation (e.g.: C), you can just print one variable immediately following the other on the same line. The string provided in your editor must be printed first, immediately followed by the string you read as input.
 
 **Input Format**
-The first line contains an integer that you must sum with _i_.
-The second line contains a double that you must sum with _d_.
-The third line contains a string that you must concatenate with _s_.
+
+The first line contains an integer that you must sum with **_i_**.
+The second line contains a double that you must sum with **_d_**.
+The third line contains a string that you must concatenate with **_s_**.
 
 **Output Format**
+
 Print the sum of both integers on the first line, the sum of both doubles (scaled to **1** decimal place) on the second line, and then the two concatenated strings on the third line.
 
 **Sample Input**
